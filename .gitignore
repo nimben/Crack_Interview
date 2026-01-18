@@ -1,1 +1,12 @@
-.exe
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
