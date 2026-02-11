@@ -1,3 +1,4 @@
+//Minimum abs diff btw any two distinct numbers
 #include<iostream>
 #include <climits>
 using namespace std;
